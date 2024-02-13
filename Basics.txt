@@ -1,0 +1,29 @@
+Git:-
+Version control system is a tool to track changes in code
+Popular
+Free & open source
+Fast & scalable
+
+Uses:
+Track history
+collaborate
+
+
+Github:-
+Website that allows developers to store and manage their codeusing Git
+github.com
+
+commit(changes)
+
+Setting up Git :-
+vs code
+windows(git bash)
+
+configuring git:-
+git config --global user.name "my name"
+git config --global user.email "abs@gmail.com"
+git config --list
+
+git command:-
+Clone-cloning a github repo in our local system - git clone <github code link>
+Status-
